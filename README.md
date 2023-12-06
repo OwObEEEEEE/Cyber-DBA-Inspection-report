@@ -1,2 +1,2 @@
 # Cyber-DBA_-Inspection-report
-Cyber DBA 帮我搞掂巡检报告 OwO
+再也不用手写巡检报告了 OwO
